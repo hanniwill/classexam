@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My FinalApp</string>
+    <string name="heading">Class Schedul</string>
+    <string name="exit">EXIT</string>
+    <string name="set">SET</string>
+    <string name="course_name">course name</string>
+    <string name="input_course_name">input course name</string>
+    <string name="course_address">course address</string>
+    <string name="input_course_address">input course address</string>
+    <string name="course_teacher">course teacher</string>
+    <string name="input_course_teacher">input course teacher</string>
+    <string name="course_week">course week</string>
+    <string name="input_course_week">input course week</string>
+    <string name="course_amount">course amount</string>
+    <string name="jieshulimit">jieshulimit</string>
+    <string name="input_course_jieshu">input course jieshu</string>
+    <string name="course_time">course time</string>
+    <string name="to">to</string>
+
+
+
+</resources>

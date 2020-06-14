@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">今日课表</string>
+    <string name="exit">退出</string>
+    <string name="heading">课表</string>
+    <string name="set">设置</string>
+    <string name="course_address">课程地址</string>
+    <string name="course_amount">课程数</string>
+    <string name="course_name">课程名</string>
+    <string name="course_teacher">授课老师</string>
+    <string name="course_time">课程时间</string>
+    <string name="course_week">课程周数</string>
+    <string name="input_course_address">添加课程地址</string>
+    <string name="input_course_jieshu">添加课程节数</string>
+    <string name="input_course_name">添加课程名</string>
+    <string name="input_course_teacher">添加授课老师</string>
+    <string name="input_course_week">添加课程周数</string>
+    <string name="jieshulimit">课程总节数</string>
+    <string name="to">到</string>
+</resources>
